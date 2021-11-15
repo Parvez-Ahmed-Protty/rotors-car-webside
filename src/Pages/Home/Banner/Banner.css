@@ -1,0 +1,12 @@
+.banner-contaoner {
+  height: 90vh;
+  background-image: url(https://i.ibb.co/LhjCz75/background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(0, 0, 0);
+}
+.title {
+  font-size: 54px;
+  color: #ea001e;
+  margin-top: 5px;
+}

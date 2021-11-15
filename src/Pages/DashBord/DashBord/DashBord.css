@@ -1,0 +1,12 @@
+.dashbord-bg {
+  background-color: #000c21;
+}
+.nav-color {
+  color: #a9a9b1;
+}
+.bg-img {
+  background-image: url("https://i.ibb.co/Q9TW56J/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
